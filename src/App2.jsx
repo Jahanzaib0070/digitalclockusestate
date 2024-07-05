@@ -17,7 +17,6 @@ const App2 = () =>{
     <>
         <div className="main">
             <h1>{currTime}</h1>
-            {/* <button onClick={updatedTime}>Get Time</button> */}
         </div>
     </>
     );
